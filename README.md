@@ -5,9 +5,9 @@ printf("</strong>Hello World!")
   return 0;  
 }  
 
-Me encuentro <strong>construyendo tanto mi:
-  Portfolio que se encontrará hosteado en http://gamezar.xyz/ 
-  Como mi presencia digital en distintas redes.
+Me encuentro construyendo tanto mi:  
+  Portfolio que se encontrará hosteado en http://gamezar.xyz/  
+  Como mi presencia digital en distintas redes.  
 
 <!--
 **gabrieladrianmezar/gabrieladrianmezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

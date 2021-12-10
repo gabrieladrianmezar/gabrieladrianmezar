@@ -1,11 +1,11 @@
-### Hi there 👋
-
 #include <stdio.h>
 
 int main(){  
-  printf("Hello World!")  
+printf(<strong>"</strong>Hello World!</strong>")  
   return 0;  
 }  
+
+Me encuentro <strong>construyendo tanto mi <strong>portfolio</strong> que se encontrará hosteado en http://gamezar.xyz/ como mi presencia digital.
 
 <!--
 **gabrieladrianmezar/gabrieladrianmezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

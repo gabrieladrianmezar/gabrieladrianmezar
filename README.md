@@ -7,7 +7,7 @@ printf("**Hello World!**")
 
 **Me encuentro construyendo tanto mi:**  
   **Portfolio** que se encontrará hosteado en http://gamezar.xyz/  
-  Como mi **presencia digital** en distintas redes. 
+  Como mi **presencia digital** en distintas redes.  
   Cargando repositorios.
 
 <!--

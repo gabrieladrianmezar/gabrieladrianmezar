@@ -1,9 +1,8 @@
-#include <stdio.h>
+<script>
+	let name = '**world**';
+</script>
 
-int main(){  
-printf("**Hello World!**")   
-  return 0;  
-}  
+<h1>Hello {name}!</h1>
 
 **Me encuentro construyendo tanto mi:**  
   **Portfolio** que se encontrará hosteado en http://gamezar.xyz/  

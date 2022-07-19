@@ -1,4 +1,4 @@
-\<script lang="ts>  
+\<script lang="ts">  
 &nbsp;&nbsp;import { roledesc, project } from '$app/stores';  
 &nbsp;&nbsp;let name: string = 'world';  
 \</script>

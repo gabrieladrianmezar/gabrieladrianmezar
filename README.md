@@ -2,12 +2,20 @@
 	let name = '**world**';
 </script>
 
-<h1>Hello {name}!</h1>
+<p> Hello {name} </p>
 
-**Me encuentro construyendo tanto mi:**  
-  **Portfolio** que se encontrará hosteado en http://gamezar.xyz/  
-  Como mi **presencia digital** en distintas redes.  
-  Cargando repositorios.
+<style>
+	p {
+	font-size:
+	}
+<style>
+
+---
+
+<h1>**Hello world**</h1>
+
+**I'm currently developing and being a stand-in leader at @neadevs**  
+
 
 <!--
 **gabrieladrianmezar/gabrieladrianmezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

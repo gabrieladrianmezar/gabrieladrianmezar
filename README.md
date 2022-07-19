@@ -1,40 +1,33 @@
-\<script lang="ts>
-  import { project } from '$app/stores'
-  let name: string = 'world'; 
-	
+\<script lang="ts>  
+&nbsp;&nbsp;import { roledesc, project } from '$app/stores';  
+&nbsp;&nbsp;let name: string = 'world';  
 \</script>
 
- \<h1> Hello {name}  \</h1>
-\<p>I'm currently developing and being a stand-in leader at {$project}\</p>
+\<h1>Hello {name}\</h1>  
+\<p>I'm currently {$roledesc} at {$project}\</p>  
 
-\<style>  
-
-  h1 {  
+\<style>  
+&nbsp;&nbsp;h1 {  
 \
-    font-size: 32px;  
+&nbsp;&nbsp;&nbsp;&nbsp;font-size: 32px;  
 \
-    font-weight: 600;  
+&nbsp;&nbsp;&nbsp;&nbsp;font-weight: 600;  
 \
-    line-height: 40p;  
+&nbsp;&nbsp;&nbsp;&nbsp;line-height: 40p;  
 \
-  }  
-  
-    h1 {  
+&nbsp;&nbsp;}
+ \
+&nbsp;&nbsp;p {  
 \
-    font-size: 24px;  
+&nbsp;&nbsp;&nbsp;&nbsp;font-size: 24px;  
 \
-    font-weight: 600;  
-\
-    line-height: 40p;  
-\
-  }  
-
+&nbsp;&nbsp;}  
 </style>
 
 	
 <h1>Hello world</h1>
 
-<p>**I'm currently developing and being a stand-in leader at @neadevs**</p>
+<p>I'm currently developing and being a stand-in leader at @neadevs</p>
 
 
 <!--

@@ -1,16 +1,27 @@
-\<script>
-
-  let name = 'world'; 
+\<script lang="ts>
+  import { project } from '$app/stores'
+  let name: string = 'world'; 
 	
 \</script>
 
- \<p> Hello {name}  \</p>
+ \<h1> Hello {name}  \</h1>
+\<p>I'm currently developing and being a stand-in leader at {$project}\</p>
 
 \<style>  
 
-  p {  
+  h1 {  
 \
     font-size: 32px;  
+\
+    font-weight: 600;  
+\
+    line-height: 40p;  
+\
+  }  
+  
+    h1 {  
+\
+    font-size: 24px;  
 \
     font-weight: 600;  
 \
@@ -23,7 +34,7 @@
 	
 <h1>Hello world</h1>
 
-**I'm currently developing and being a stand-in leader at @neadevs**  
+<p>**I'm currently developing and being a stand-in leader at @neadevs**</p>
 
 
 <!--

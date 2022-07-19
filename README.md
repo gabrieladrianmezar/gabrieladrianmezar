@@ -1,19 +1,26 @@
-<script>  
-	let name = 'world';  
-</script>  
+\<script>
 
-\<p> Hello {name} </p>\  
-
-<style>  
-	p {  
-	font-size: 32px;  
-	font-weight: 600;  
-	line-height: 40p;  
-	}  
-<style>  
----
+  let name = 'world'; 
 	
+\</script>
 
+ \<p> Hello {name}  \</p>
+
+\<style>  
+
+  p {  
+\
+    font-size: 32px;  
+\
+    font-weight: 600;  
+\
+    line-height: 40p;  
+\
+  }  
+
+</style>
+
+	
 <h1>Hello world</h1>
 
 **I'm currently developing and being a stand-in leader at @neadevs**  

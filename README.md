@@ -2,7 +2,7 @@
 	let name = 'world';
 </script>
 
-\<p> Hello {name} </p>\
+\<p> Hello {name} \</p>
 
 <style>
 	p {

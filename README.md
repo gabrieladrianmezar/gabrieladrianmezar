@@ -1,2 +1,1 @@
-<img src="/rick-astley" alt="Rick Astley dancing">
-[!rick](/rick-astley.gif)
+![rick](./rick-astley.gif)  

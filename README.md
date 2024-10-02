@@ -1,2 +1,2 @@
 ![rick](./rick-astley.gif)  
-Most of my stuff is done at a GitLab instance.
+At work we're using a self-hosted GitLab instance.
